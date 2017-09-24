@@ -4,7 +4,7 @@
   </a>
   <br /><br />
   Estadistica de paros</h1>
-<p align="center">http://ppizarror.com/estadistica-paros/</p>
+<p align="center">Estadística de paros en la fcfm</p>
 <div align="center"><a href="http://ppizarror.com"><img alt="@ppizarror" src="http://ppizarror.com/badges/autor.svg" /></a>
 <a href="https://www.gnu.org/licenses/gpl-2.0.html/"><img alt="Licencia GPL v2" src="http://ppizarror.com/badges/licenciagpl2.svg" /></a>
 </div><br />

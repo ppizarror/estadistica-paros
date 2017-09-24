@@ -1,0 +1,37 @@
+{
+    "PROJECT": {
+        "NAME": "Estadistica de paros",
+        "ICON": {
+            "IMAGE": "icon.png",
+            "ALT": "Estadistica de paros",
+            "WIDTH": 200,
+            "HEIGHT": 200
+        },
+        "URL": "http://ppizarror.com/estadistica-paros/",
+        "URL_TITLE": "Estadistica de paros"
+    },
+    "AUTHOR": {
+        "NAME": "Pablo Pizarro R.",
+        "URL": "http://ppizarror.com",
+        "ALT": "ppizarror",
+        "DATE": "2016 - 2017",
+        "SECTION": {
+            "TITLE": "Autor",
+            "SHOW": true
+        }
+    },
+    "DESCRIPTION": "http://ppizarror.com/estadistica-paros/",
+    "BADGES": {
+        "0": {
+            "IMAGE": "http://ppizarror.com/badges/autor.svg",
+            "HREF": "http://ppizarror.com",
+            "ALT": "@ppizarror"
+        },
+        "1": {
+            "IMAGE": "http://ppizarror.com/badges/licenciagpl2.svg",
+            "HREF": "https://www.gnu.org/licenses/gpl-2.0.html/",
+            "ALT": "Licencia GPL v2"
+        }
+    },
+    "CONTENT": "readme.content.md"
+}

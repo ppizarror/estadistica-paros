@@ -4,12 +4,10 @@
   </a>
   <br /><br />
   Estadistica de paros</h1>
-<p align="center">Estadística de paros en la fcfm</p>
+<p align="center">Estadistica de paros en la Universidad de Chile, facultad de Ingeniería</p>
 <div align="center"><a href="http://ppizarror.com"><img alt="@ppizarror" src="http://ppizarror.com/badges/autor.svg" /></a>
 <a href="https://www.gnu.org/licenses/gpl-2.0.html/"><img alt="Licencia GPL v2" src="http://ppizarror.com/badges/licenciagpl2.svg" /></a>
 </div><br />
-
-Estadistica de paros en la Universidad de Chile, facultad de Ingeniería.
 
 ## Años
 Se poseen datos de los años:

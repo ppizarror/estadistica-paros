@@ -1,5 +1,3 @@
-Estadistica de paros en la Universidad de Chile, facultad de Ingeniería.
-
 ## Años
 Se poseen datos de los años:
 ```
